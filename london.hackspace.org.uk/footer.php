@@ -1,5 +1,5 @@
         <? if (!isset($hide_menu)) { ?>
-        </div><!-- end of non-menu-content -->
+        </div><!-- end ojf non-menu-content -->
         <? } ?>
     </div>
     <!-- End of Main Body section -->
